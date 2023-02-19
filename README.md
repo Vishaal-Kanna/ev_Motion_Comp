@@ -4,8 +4,8 @@ This repository contains the code for Event camera motion compensation. We predi
 ## Results
 The below image shows data captured by an event camera before and after motion compensation.
 
-![Result_Frame_1](https://github.com/Vishaal-Kanna/ev_Motion_Comp/tree/main/Sample_data/sample_op_before_comp.png)
-![Result_Frame_2](https://github.com/Vishaal-Kanna/ev_Motion_Comp/tree/main/Sample_data/sample_op_after_comp.png)
+![Result_Frame_1](https://github.com/Vishaal-Kanna/ev_Motion_Comp/blob/main/Sample_data/sample_op_before_comp.png)
+![Result_Frame_2](https://github.com/Vishaal-Kanna/ev_Motion_Comp/blob/main/Sample_data/sample_op_after_comp.png)
 
 
 
