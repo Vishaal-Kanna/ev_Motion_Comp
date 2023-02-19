@@ -19,8 +19,8 @@ class Optimization(nn.Module):
 
     def forward(self, input_n, dT):
         """
-        Apply motion compensation for voxalized event representation
-        @param input_n event voxals
+        Apply motion compensation for voxelized event representation
+        @param input_n event voxels
         @param dT time interval between thestarting and ending events
         @returns Motion compensated event image
         """
